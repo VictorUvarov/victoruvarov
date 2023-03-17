@@ -1,7 +1,7 @@
 ### Hi there, I'm Victor Uvarov 👋
 
-- 🔭 I’m currently working on WebRTC and backend system design
-- 🌱 I’m currently learning Golang and PostgreSQL
+- 🔭 I’m currently working on Google Cloud Platform and backend system design
+- 🌱 I’m currently learning Google Cloud run and Secrets Manager
 
 <!--
 **VictorUvarov/victoruvarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
