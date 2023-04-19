@@ -1,7 +1,8 @@
 ### Hi there, I'm Victor Uvarov 👋
 
-- 🔭 I’m currently working on Google Cloud Platform and backend system design
-- 🌱 I’m currently learning Google Cloud run and Secrets Manager
+- 🔭 I’m currently working on Node.js applications with Next.js and Google cloud functions
+- 🌱 I’m currently learning about Next.js security and authentication
+- 💬 Ask me about finding your true purpose in this life 🙂
 
 <!--
 **VictorUvarov/victoruvarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
