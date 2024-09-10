@@ -1,8 +1,8 @@
 ### Hi there, I'm Victor Uvarov 👋
 
-- 🔭 I’m currently working on Node.js applications with Next.js and Google cloud functions
-- 🌱 I’m currently learning about Next.js security and authentication
-- 💬 Ask me about finding your true purpose in this life 🙂
+- 🔭 I’m currently leading development at [Tive](https://www.tivetechnology.com/)
+- 🌱 I’m currently working with WebRTC and SIP to deliver reliable video calling applications
+- 📫 How to reach me: https://www.linkedin.com/in/victoruvarov/
 
 <!--
 **VictorUvarov/victoruvarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
