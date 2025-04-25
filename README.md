@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently leading development at [Tive](https://www.tivetechnology.com/)
 - 🌱 I’m currently working with WebRTC and SIP to deliver reliable video calling applications
-- 📫 How to reach me: https://www.linkedin.com/in/victoruvarov/
 
 <!--
 **VictorUvarov/victoruvarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
