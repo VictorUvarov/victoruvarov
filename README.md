@@ -1,7 +1,8 @@
 ### Hi there, I'm Victor Uvarov 👋
 
-- 🔭 I’m currently leading development at [Tive](https://www.tivetechnology.com/)
-- 🌱 I’m currently working with WebRTC and SIP to deliver reliable video calling applications
+- 🌱 Currently working with WebRTC and SIP to build reliable, real-time video calling applications.
+- 🔭 Experienced in full-stack TypeScript development, including frontend work with Next.js and backend services using Node.js.
+- ⚡ Developed and maintained iOS and Android mobile clients with a focus on real-time video and integrated on-device/server-side call handling systems.
 
 <!--
 **VictorUvarov/victoruvarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
