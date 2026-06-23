@@ -1,8 +1,8 @@
 ### Hi there, I'm Victor Uvarov 👋
 
-- 🌱 Currently working with WebRTC and SIP to build reliable, real-time video calling applications.
-- 🔭 Experienced in full-stack TypeScript development, including frontend work with Next.js and backend services using Node.js.
-- ⚡ Developed and maintained iOS and Android mobile clients with a focus on real-time video and integrated on-device/server-side call handling systems.
+- 🌱 Exploring how AI can automate repetitive engineering work and improve developer productivity.
+- 🔭 Specialized in telephony, WebRTC, SIP, and real-time video applications.
+- ⚡ Passionate about software architecture, system design, and building reliable products that scale.
 
 <!--
 **VictorUvarov/victoruvarov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
