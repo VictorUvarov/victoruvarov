@@ -1,4 +1,4 @@
-### Hi there, I'm Victor Uvarov 👋
+### Hi there, I'm Victor 👋
 
 - 🌱 Exploring how AI can automate repetitive engineering work and improve developer productivity.
 - 🔭 Specialized in telephony, WebRTC, SIP, and real-time video applications.
